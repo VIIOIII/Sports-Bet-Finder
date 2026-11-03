@@ -318,5 +318,5 @@ props_database = [
         "category": "Points", "line": 31.5, "pick": "OVER", "fair_prob": 0.572,
         "best_app": "Dabble", "payout_odds": 1.82,
         "verdict": "🟢 MOST LIKELY (74% Hit Probability)",
-        "cat_percentages": {
+        "cat_percentages": {}
             "Points (31.5+)": {"pct": 7}
